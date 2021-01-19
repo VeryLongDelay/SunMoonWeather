@@ -62,7 +62,7 @@ Code for this widget is extremely hacky due to the limitated nature of iOS Short
 
 The code behind the image generation is in src. This obviously will not run on its own, scroll through the shortcut to see how variables are set.
 
-Questions? Raise an issue.
+Questions? [Raise an issue](https://github.com/VeryLongDelay/SunMoonWeather/issues/new/choose).
 
 ### License
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
