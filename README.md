@@ -7,7 +7,7 @@ This is a fork of [TheWayToZion's iOSWeather widget](https://github.com/thewayto
 To setup, clone the repository, then copy the `iOSWeather` directory to `iCloud Drive/Shortcuts`. This is case sensitive.
 
 1. Run the [Setup SunMoonWeather](https://www.icloud.com/shortcuts/b0215991c5f84d99985b2b1c0a5a7311) shortcut three times, once to setup the lockscreen, once to setup the Day version of your homescreen and once to setup the Night version. You can provide screenshots for the script to alternate between, as long as the dimensions are sufficient to set as a background. The Setup shortcut will arrange the lockscreen for you depending on the type of device you have.
-2. Run the [SunMoonWeather](https://www.icloud.com/shortcuts/b09ca81f5a9a41c2b8f7a8b5072d173f) shortcut to set your lockscreen and/or homescreen. Edit the shortcut if you want to customize your greeting/include the city name, etc.
+2. Run the [SunMoonWeather](https://www.icloud.com/shortcuts/f441dedb7c2646cf8e49964479e5290f) shortcut to set your lockscreen and/or homescreen. Edit the shortcut if you want to customize your greeting/include the city name, etc.
 3. Setup automations in your Shortcuts app to run this shortcut as often as you like. Sadly, Apple does not give you the option to run this on cron, so if you want to run it hourly, you will have to setup a separate entry for each hour, 24 in total. Turn off "Ask before running" so the shortcut is automatically triggered.
 4. Disable shortcut notifications via Screen Time in your iPhone's settings to prevent spam.
 
